@@ -16,6 +16,10 @@
 
 <p align="center">A web-based notes app for developers. (Demo only)</p>
 
+## Experiments and Learning
+
+I will be using this repository to learn the ins and outs of React. I plan to break, fix and add features in an attept to learn good React programming habbits.
+
 ![Screenshot](./assets/takenote-light.png)
 
 ## Features
